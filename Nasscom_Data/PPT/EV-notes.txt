@@ -27,12 +27,21 @@ within city in malls. slow chargers..
 
 
 
-One of the key hurdles towards mass adoption of EV in India is consumer confidence and sentiment towards it. It stems from the fear among EV users of the precious time lost while re-charging EV batteries or running out of fuel before reaching their destination. In most path-breaking technologies and solutions, infrastructure always precedes innovation. The usage and penetration of internet, 4G telecom towers enabled data proliferation in India. Similar is the case for EVs for which a robust infrastructure is needed for its mass adoption. It is imperative to provide choices to the consumers in terms of charging or battery swapping, which will drive the future.
+One of the key hurdles towards mass adoption of EV in India is consumer confidence and sentiment towards it. It stems from the fear among EV users of the precious 
+time lost while re-charging EV batteries or running out of fuel before reaching their destination. 
+In most path-breaking technologies and solutions, infrastructure always precedes innovation. The usage and penetration of internet, 
+4G telecom towers enabled data proliferation in India. Similar is the case for EVs for which a robust infrastructure is needed for its mass adoption. 
+It is imperative to provide choices to the consumers in terms of charging or battery swapping, which will drive the future.
 
-For the city of Delhi, develop a model/software for mapping out charging points and battery swapping stations for Electric Vehicles (two-wheelers, three-wheelers, 4-wheelers) depending on factors such as traffic, most used routes, time taken, route-wise peak times and range anxiety, vehicle charging patterns, malls, parking areas and conventional fuel stations. The model/solution should also specify details on the type of hardware to be installed at the charging/swapping stations, ways for inter-operable charging standards, monetization business models, and the ability to quickly and inexpensively replicate such a model for other major cities in India.
+For the city of Delhi, develop a model/software for mapping out charging points and battery swapping stations for Electric Vehicles (two-wheelers, three-wheelers, 4-wheelers)
+ depending on factors such as traffic, most used routes, time taken, route-wise peak times and range anxiety, vehicle charging patterns, malls,
+ parking areas and conventional fuel stations. The model/solution should also specify details on the type of hardware to be installed at the 
+charging/swapping stations, ways for inter-operable charging standards, monetization business models, and the ability to quickly and inexpensively
+ replicate such a model for other major cities in India.
 
 
-Our solution would help those who are willing to offer charging service. Based on the location at which they want to offer. Lets take 3/4 sample inputs (Location in latitude longitude) 
+Our solution would help those who are willing to offer charging service. Based on the location at which they want to offer. 
+Lets take 3/4 sample inputs (Location in latitude longitude) 
 The solution will output
 	1. Number of charging points which can be used simultaneously.
 	2. Type of charger required (AC/ DC, Fast/Slow, Standard)

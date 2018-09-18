@@ -1,5 +1,9 @@
 import os
 from subprocess import call
+import pip
+
+# For pip 10 and above
+##from pip._internal.utils.misc import get_installed_distributions
 
 ##packages = [dist.project_name for dist in pip.get_installed_distributions()]
 ##print ("pip3 install --upgrade " + ' '.join(packages))
